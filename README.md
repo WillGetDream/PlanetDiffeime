@@ -1,8 +1,8 @@
-# PlanetDiffeime
-
-
 2011/2012 SOUTHERN CALIFORNIA REGIONAL
 ACM INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
+
+
+
 Problem 2
 Planet “difftime”
 NASA has established communications with a new planet discovered by Dr. Ridgemont. This planet,
