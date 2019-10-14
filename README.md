@@ -1,4 +1,4 @@
-# PlanetDiffeime
+# Planet Diffeime solution/solving method/solving process
 
 
                                     2011/2012 SOUTHERN CALIFORNIA REGIONAL
